@@ -6,4 +6,4 @@ if a>b:
 elif a==b:
     print ("draw")
 else:
-    print("ti fal'shivka")
+    print("you're loseeer")

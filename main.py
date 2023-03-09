@@ -7,4 +7,4 @@ elif a==b:
     print ("draw")
 else:
     print("you're loseeer")
-print ("C DNEM ROZHDENIA VLAD")
+print ("C DNEM ROZHDENIA ,VLAD")
